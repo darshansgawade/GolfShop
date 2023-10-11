@@ -65,6 +65,7 @@ h1 {
     margin: 2px 14px;
     font-size: 18px;
     transition-duration: 1s;
+    align-items: end;
    
 
 }
@@ -129,10 +130,10 @@ ion-icon:hover {
 
 }
 
-.search a {
+/* .search a {
     display: flex;
 
-}
+} */
 
 header a ion-icon {
     position: relative;
@@ -140,11 +141,11 @@ header a ion-icon {
 
 }
 
-.search {
+/* .search {
     display: flex;
     position: relative;
 
-}
+} */
 
 .section1 {
     width: 1080px;
@@ -644,6 +645,11 @@ footer {
    background: #f5115a;
    color: white;
  }
+
+ .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
 
  .small-container{
     margin-top: 80px;
